@@ -31,13 +31,6 @@ Built using pure HTML, CSS, and JavaScript.
 
 ---
 
-## 🌐 Live Demo
-
-[Click here to view on GitHub Pages](https://coder-nikita.github.io/js-hover-image-follow-effect/)  
-*(Once GitHub Pages is enabled)*
-
----
-
 ## 📂 Tech Stack
 
 - HTML
