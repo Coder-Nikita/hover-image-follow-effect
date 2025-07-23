@@ -39,6 +39,12 @@ Built using pure HTML, CSS, and JavaScript.
 
 ---
 
+### 🌐 Live Demo  
+[Click here to view](https://coder-nikita.github.io/hover-image-follow-effect/)
+
+
+---
+
 ## 👩‍💻 Author
 
 Made with ❤️ by **Nikita Gupta**  
